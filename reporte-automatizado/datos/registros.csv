@@ -1,0 +1,106 @@
+id,fecha,tipo_animal,especie,edad_meses,costo_adopcion,medio_pago,estado
+1,2026-10-16,Conejo,Siames,26,38286,Efectivo,Disponible
+2,2026-10-01,Hamster,Siames,81,33198,Nequi,En tratamiento
+3,2026-10-10,Perro,Criollo,90,45051,Efectivo,Disponible
+4,2026-10-25,Gato,Labrador,89,114162,Transferencia,En tratamiento
+5,2026-10-26,Conejo,Golden,103,103248,Nequi,En tratamiento
+6,2026-10-20,Gato,Siames,44,42671,Transferencia,En tratamiento
+7,2026-10-11,Conejo,Labrador,119,123128,Nequi,Disponible
+8,2026-10-19,Conejo,Siames,18,54974,Transferencia,Disponible
+9,2026-10-12,Conejo,Criollo,31,145156,Transferencia,Reservado
+10,2026-10-08,Hamster,Labrador,76,35940,Efectivo,En tratamiento
+11,2026-10-16,Conejo,Labrador,92,129903,Nequi,En tratamiento
+12,2026-10-01,Gato,Angora,4,123861,Nequi,Reservado
+13,2026-10-06,Perro,Golden,78,36174,Nequi,Reservado
+14,2026-10-24,Perro,Golden,118,66426,Transferencia,Adoptado
+15,2026-10-12,Hamster,Siames,24,135728,Efectivo,Disponible
+16,2026-10-18,Hamster,Golden,100,37886,Nequi,Adoptado
+17,2026-10-23,Hamster,Siames,34,108726,Transferencia,En tratamiento
+18,2026-10-06,Conejo,Criollo,87,48547,Transferencia,Reservado
+19,2026-10-12,Conejo,Angora,54,142800,Transferencia,Reservado
+20,2026-10-15,Perro,Labrador,60,87663,Efectivo,En tratamiento
+21,2026-10-10,Gato,Golden,93,45984,Nequi,Adoptado
+22,2026-10-23,Gato,Siames,83,131198,Nequi,Adoptado
+23,2026-10-24,Conejo,Angora,112,50622,Efectivo,Disponible
+24,2026-10-01,Hamster,Siames,28,148494,Transferencia,En tratamiento
+25,2026-10-25,Gato,Angora,13,109914,Nequi,Disponible
+26,2026-10-27,Hamster,Golden,6,56925,Efectivo,Disponible
+27,2026-10-15,Gato,Criollo,49,113280,Transferencia,Disponible
+28,2026-10-12,Conejo,Golden,110,63834,Nequi,Reservado
+29,2026-10-01,Gato,Angora,67,66424,Nequi,En tratamiento
+30,2026-10-02,Hamster,Criollo,94,116232,Efectivo,Reservado
+31,2026-10-06,Gato,Labrador,34,110149,Transferencia,Disponible
+32,2026-10-20,Conejo,Angora,111,135275,Transferencia,En tratamiento
+33,2026-10-18,Gato,Angora,8,119201,Transferencia,Reservado
+34,2026-10-13,Perro,Labrador,118,34550,Transferencia,En tratamiento
+35,2026-10-06,Gato,Criollo,47,87786,Efectivo,Disponible
+36,2026-10-24,Conejo,Angora,82,51501,Transferencia,Disponible
+37,2026-10-11,Gato,Golden,71,105488,Transferencia,Reservado
+38,2026-10-17,Gato,Criollo,58,95932,Transferencia,En tratamiento
+39,2026-10-28,Perro,Labrador,115,129945,Nequi,Disponible
+40,2026-10-16,Conejo,Siames,110,101512,Transferencia,Disponible
+41,2026-10-07,Hamster,Criollo,5,45184,Transferencia,En tratamiento
+42,2026-10-15,Perro,Golden,104,146128,Efectivo,En tratamiento
+43,2026-10-14,Gato,Labrador,51,78462,Nequi,Disponible
+44,2026-10-10,Conejo,Angora,32,119399,Transferencia,En tratamiento
+45,2026-10-07,Hamster,Siames,18,134091,Efectivo,Reservado
+46,2026-10-04,Hamster,Angora,119,109314,Transferencia,Disponible
+47,2026-10-04,Hamster,Angora,88,84361,Nequi,Adoptado
+48,2026-10-15,Conejo,Labrador,48,50069,Nequi,Disponible
+49,2026-10-17,Perro,Golden,97,59891,Transferencia,Reservado
+50,2026-10-20,Conejo,Angora,56,146881,Transferencia,Disponible
+51,2026-10-10,Conejo,Criollo,93,53651,Nequi,Reservado
+52,2026-10-16,Perro,Labrador,92,85543,Efectivo,Adoptado
+53,2026-10-17,Conejo,Criollo,37,70398,Transferencia,Reservado
+54,2026-10-08,Perro,Siames,99,86680,Efectivo,Disponible
+55,2026-10-08,Gato,Siames,44,118517,Efectivo,Disponible
+56,2026-10-12,Hamster,Golden,101,119473,Nequi,En tratamiento
+57,2026-10-04,Hamster,Angora,45,103084,Transferencia,En tratamiento
+58,2026-10-25,Gato,Angora,47,113974,Efectivo,Adoptado
+59,2026-10-02,Hamster,Golden,60,57492,Nequi,Reservado
+60,2026-10-10,Hamster,Siames,92,35108,Nequi,Disponible
+61,2026-10-01,Hamster,Criollo,69,87557,Efectivo,Adoptado
+62,2026-10-11,Gato,Siames,95,138383,Efectivo,En tratamiento
+63,2026-10-18,Hamster,Siames,24,43249,Transferencia,En tratamiento
+64,2026-10-22,Perro,Labrador,67,66672,Efectivo,Reservado
+65,2026-10-22,Hamster,Siames,81,37966,Efectivo,Disponible
+66,2026-10-09,Gato,Angora,59,72952,Efectivo,Disponible
+67,2026-10-21,Hamster,Criollo,19,145616,Efectivo,Adoptado
+68,2026-10-05,Hamster,Golden,74,44161,Transferencia,Disponible
+69,2026-10-22,Conejo,Angora,116,120356,Transferencia,En tratamiento
+70,2026-10-10,Gato,Angora,70,54920,Transferencia,Adoptado
+71,2026-10-04,Hamster,Criollo,103,132687,Nequi,Adoptado
+72,2026-10-13,Hamster,Golden,94,106467,Transferencia,Reservado
+73,2026-10-22,Gato,Criollo,107,118214,Efectivo,Adoptado
+74,2026-10-03,Perro,Labrador,109,83182,Transferencia,Reservado
+75,2026-10-28,Gato,Siames,59,40942,Efectivo,Disponible
+76,2026-10-22,Gato,Labrador,47,79181,Efectivo,Reservado
+77,2026-10-13,Conejo,Labrador,2,149191,Transferencia,Reservado
+78,2026-10-06,Hamster,Criollo,82,58803,Nequi,En tratamiento
+79,2026-10-22,Conejo,Golden,71,42212,Nequi,En tratamiento
+80,2026-10-19,Perro,Siames,13,41742,Transferencia,En tratamiento
+81,2026-10-28,Conejo,Siames,8,139228,Efectivo,Adoptado
+82,2026-10-01,Gato,Labrador,116,126335,Efectivo,En tratamiento
+83,2026-10-11,Conejo,Siames,59,59511,Efectivo,Disponible
+84,2026-10-06,Gato,Labrador,100,33979,Transferencia,Adoptado
+85,2026-10-08,Gato,Golden,77,144386,Nequi,Adoptado
+86,2026-10-14,Conejo,Golden,31,65517,Transferencia,En tratamiento
+87,2026-10-08,Hamster,Criollo,40,38719,Nequi,Disponible
+88,2026-10-22,Hamster,Criollo,49,53609,Efectivo,Adoptado
+89,2026-10-21,Gato,Golden,87,101471,Efectivo,En tratamiento
+90,2026-10-11,Conejo,Golden,55,124993,Nequi,Adoptado
+91,2026-10-02,Perro,Labrador,108,53469,Efectivo,En tratamiento
+92,2026-10-02,Perro,Labrador,50,121783,Transferencia,Adoptado
+93,2026-10-28,Gato,Golden,62,108630,Nequi,En tratamiento
+94,2026-10-02,Perro,Angora,7,102397,Nequi,En tratamiento
+95,2026-10-21,Conejo,Angora,56,147298,Nequi,Disponible
+96,2026-10-02,Gato,Siames,10,136821,Efectivo,Reservado
+97,2026-10-01,Gato,Angora,100,47929,Efectivo,Disponible
+98,2026-10-12,Hamster,Golden,61,93687,Efectivo,Reservado
+99,2026-10-03,Perro,Criollo,117,47899,Transferencia,Adoptado
+100,2026-10-06,Hamster,Golden,22,87738,Nequi,En tratamiento
+101,2026-10-10,Perro,Criollo,12,,Efectivo,Disponible
+102,fecha-invalida,Gato,Siames,6,50000,Nequi,Adoptado
+103,2026-10-12,Conejo,Angora,4,treinta-mil,Transferencia,Reservado
+104,,Perro,Golden,24,80000,Efectivo,Disponible
+105,2026-10-15,,Criollo,8,40000,Nequi,Adoptado
